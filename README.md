@@ -15,7 +15,7 @@ This website will allow you to search for books and also see others like it. You
 
 ## Usage
 
-Deployed using Heroku! [here]()
+Deployed using Heroku! [here](https://hufflk96.github.io/booktoksearch/)
 
 Search for a book by typing in a book then clicking search.
 
